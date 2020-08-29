@@ -310,24 +310,24 @@
   (net 218 "Net-(K_20-Pad4)")
   (net 219 "Net-(D_20-Pad1)")
   (net 220 "Net-(D_20-Pad2)")
-  (net 221 "Net-(K_119-Pad1)")
-  (net 222 "Net-(K_119-Pad2)")
-  (net 223 "Net-(K_119-Pad3)")
-  (net 224 "Net-(K_119-Pad4)")
-  (net 225 "Net-(D_119-Pad1)")
-  (net 226 "Net-(D_119-Pad2)")
-  (net 227 "Net-(K_120-Pad1)")
-  (net 228 "Net-(K_120-Pad2)")
-  (net 229 "Net-(K_120-Pad3)")
-  (net 230 "Net-(K_120-Pad4)")
-  (net 231 "Net-(D_120-Pad1)")
-  (net 232 "Net-(D_120-Pad2)")
-  (net 233 "Net-(K_114-Pad1)")
-  (net 234 "Net-(K_114-Pad2)")
-  (net 235 "Net-(K_114-Pad3)")
-  (net 236 "Net-(K_114-Pad4)")
-  (net 237 "Net-(D_114-Pad1)")
-  (net 238 "Net-(D_114-Pad2)")
+  (net 221 "Net-(K_114-Pad1)")
+  (net 222 "Net-(K_114-Pad2)")
+  (net 223 "Net-(K_114-Pad3)")
+  (net 224 "Net-(K_114-Pad4)")
+  (net 225 "Net-(D_114-Pad1)")
+  (net 226 "Net-(D_114-Pad2)")
+  (net 227 "Net-(K_115-Pad1)")
+  (net 228 "Net-(K_115-Pad2)")
+  (net 229 "Net-(K_115-Pad3)")
+  (net 230 "Net-(K_115-Pad4)")
+  (net 231 "Net-(D_115-Pad1)")
+  (net 232 "Net-(D_115-Pad2)")
+  (net 233 "Net-(K_116-Pad1)")
+  (net 234 "Net-(K_116-Pad2)")
+  (net 235 "Net-(K_116-Pad3)")
+  (net 236 "Net-(K_116-Pad4)")
+  (net 237 "Net-(D_116-Pad1)")
+  (net 238 "Net-(D_116-Pad2)")
   (net 239 "Net-(K_111-Pad1)")
   (net 240 "Net-(K_111-Pad2)")
   (net 241 "Net-(K_111-Pad3)")
@@ -460,48 +460,48 @@
   (net 368 "Net-(K_40-Pad4)")
   (net 369 "Net-(D_40-Pad1)")
   (net 370 "Net-(D_40-Pad2)")
-  (net 371 "Net-(K_126-Pad1)")
-  (net 372 "Net-(K_126-Pad2)")
-  (net 373 "Net-(K_126-Pad3)")
-  (net 374 "Net-(K_126-Pad4)")
-  (net 375 "Net-(D_126-Pad1)")
-  (net 376 "Net-(D_126-Pad2)")
-  (net 377 "Net-(K_121-Pad1)")
-  (net 378 "Net-(K_121-Pad2)")
-  (net 379 "Net-(K_121-Pad3)")
-  (net 380 "Net-(K_121-Pad4)")
-  (net 381 "Net-(D_121-Pad1)")
-  (net 382 "Net-(D_121-Pad2)")
-  (net 383 "Net-(K_115-Pad1)")
-  (net 384 "Net-(K_115-Pad2)")
-  (net 385 "Net-(K_115-Pad3)")
-  (net 386 "Net-(K_115-Pad4)")
-  (net 387 "Net-(D_115-Pad1)")
-  (net 388 "Net-(D_115-Pad2)")
-  (net 389 "Net-(K_122-Pad1)")
-  (net 390 "Net-(K_122-Pad2)")
-  (net 391 "Net-(K_122-Pad3)")
-  (net 392 "Net-(K_122-Pad4)")
-  (net 393 "Net-(D_122-Pad1)")
-  (net 394 "Net-(D_122-Pad2)")
-  (net 395 "Net-(K_116-Pad1)")
-  (net 396 "Net-(K_116-Pad2)")
-  (net 397 "Net-(K_116-Pad3)")
-  (net 398 "Net-(K_116-Pad4)")
-  (net 399 "Net-(D_116-Pad1)")
-  (net 400 "Net-(D_116-Pad2)")
-  (net 401 "Net-(K_117-Pad1)")
-  (net 402 "Net-(K_117-Pad2)")
-  (net 403 "Net-(K_117-Pad3)")
-  (net 404 "Net-(K_117-Pad4)")
-  (net 405 "Net-(D_117-Pad1)")
-  (net 406 "Net-(D_117-Pad2)")
-  (net 407 "Net-(K_118-Pad1)")
-  (net 408 "Net-(K_118-Pad2)")
-  (net 409 "Net-(K_118-Pad3)")
-  (net 410 "Net-(K_118-Pad4)")
-  (net 411 "Net-(D_118-Pad1)")
-  (net 412 "Net-(D_118-Pad2)")
+  (net 371 "Net-(K_121-Pad1)")
+  (net 372 "Net-(K_121-Pad2)")
+  (net 373 "Net-(K_121-Pad3)")
+  (net 374 "Net-(K_121-Pad4)")
+  (net 375 "Net-(D_121-Pad1)")
+  (net 376 "Net-(D_121-Pad2)")
+  (net 377 "Net-(K_122-Pad1)")
+  (net 378 "Net-(K_122-Pad2)")
+  (net 379 "Net-(K_122-Pad3)")
+  (net 380 "Net-(K_122-Pad4)")
+  (net 381 "Net-(D_122-Pad1)")
+  (net 382 "Net-(D_122-Pad2)")
+  (net 383 "Net-(K_117-Pad1)")
+  (net 384 "Net-(K_117-Pad2)")
+  (net 385 "Net-(K_117-Pad3)")
+  (net 386 "Net-(K_117-Pad4)")
+  (net 387 "Net-(D_117-Pad1)")
+  (net 388 "Net-(D_117-Pad2)")
+  (net 389 "Net-(K_123-Pad1)")
+  (net 390 "Net-(K_123-Pad2)")
+  (net 391 "Net-(K_123-Pad3)")
+  (net 392 "Net-(K_123-Pad4)")
+  (net 393 "Net-(D_123-Pad1)")
+  (net 394 "Net-(D_123-Pad2)")
+  (net 395 "Net-(K_118-Pad1)")
+  (net 396 "Net-(K_118-Pad2)")
+  (net 397 "Net-(K_118-Pad3)")
+  (net 398 "Net-(K_118-Pad4)")
+  (net 399 "Net-(D_118-Pad1)")
+  (net 400 "Net-(D_118-Pad2)")
+  (net 401 "Net-(K_119-Pad1)")
+  (net 402 "Net-(K_119-Pad2)")
+  (net 403 "Net-(K_119-Pad3)")
+  (net 404 "Net-(K_119-Pad4)")
+  (net 405 "Net-(D_119-Pad1)")
+  (net 406 "Net-(D_119-Pad2)")
+  (net 407 "Net-(K_120-Pad1)")
+  (net 408 "Net-(K_120-Pad2)")
+  (net 409 "Net-(K_120-Pad3)")
+  (net 410 "Net-(K_120-Pad4)")
+  (net 411 "Net-(D_120-Pad1)")
+  (net 412 "Net-(D_120-Pad2)")
   (net 413 "Net-(K_41-Pad1)")
   (net 414 "Net-(K_41-Pad2)")
   (net 415 "Net-(K_41-Pad3)")
@@ -610,30 +610,30 @@
   (net 518 "Net-(K_58-Pad4)")
   (net 519 "Net-(D_58-Pad1)")
   (net 520 "Net-(D_58-Pad2)")
-  (net 521 "Net-(K_128-Pad1)")
-  (net 522 "Net-(K_128-Pad2)")
-  (net 523 "Net-(K_128-Pad3)")
-  (net 524 "Net-(K_128-Pad4)")
-  (net 525 "Net-(D_128-Pad1)")
-  (net 526 "Net-(D_128-Pad2)")
-  (net 527 "Net-(K_123-Pad1)")
-  (net 528 "Net-(K_123-Pad2)")
-  (net 529 "Net-(K_123-Pad3)")
-  (net 530 "Net-(K_123-Pad4)")
-  (net 531 "Net-(D_123-Pad1)")
-  (net 532 "Net-(D_123-Pad2)")
-  (net 533 "Net-(K_124-Pad1)")
-  (net 534 "Net-(K_124-Pad2)")
-  (net 535 "Net-(K_124-Pad3)")
-  (net 536 "Net-(K_124-Pad4)")
-  (net 537 "Net-(D_124-Pad1)")
-  (net 538 "Net-(D_124-Pad2)")
-  (net 539 "Net-(K_125-Pad1)")
-  (net 540 "Net-(K_125-Pad2)")
-  (net 541 "Net-(K_125-Pad3)")
-  (net 542 "Net-(K_125-Pad4)")
-  (net 543 "Net-(D_125-Pad1)")
-  (net 544 "Net-(D_125-Pad2)")
+  (net 521 "Net-(K_127-Pad1)")
+  (net 522 "Net-(K_127-Pad2)")
+  (net 523 "Net-(K_127-Pad3)")
+  (net 524 "Net-(K_127-Pad4)")
+  (net 525 "Net-(D_127-Pad1)")
+  (net 526 "Net-(D_127-Pad2)")
+  (net 527 "Net-(K_124-Pad1)")
+  (net 528 "Net-(K_124-Pad2)")
+  (net 529 "Net-(K_124-Pad3)")
+  (net 530 "Net-(K_124-Pad4)")
+  (net 531 "Net-(D_124-Pad1)")
+  (net 532 "Net-(D_124-Pad2)")
+  (net 533 "Net-(K_125-Pad1)")
+  (net 534 "Net-(K_125-Pad2)")
+  (net 535 "Net-(K_125-Pad3)")
+  (net 536 "Net-(K_125-Pad4)")
+  (net 537 "Net-(D_125-Pad1)")
+  (net 538 "Net-(D_125-Pad2)")
+  (net 539 "Net-(K_126-Pad1)")
+  (net 540 "Net-(K_126-Pad2)")
+  (net 541 "Net-(K_126-Pad3)")
+  (net 542 "Net-(K_126-Pad4)")
+  (net 543 "Net-(D_126-Pad1)")
+  (net 544 "Net-(D_126-Pad2)")
   (net 545 "Net-(K_59-Pad1)")
   (net 546 "Net-(K_59-Pad2)")
   (net 547 "Net-(K_59-Pad3)")
@@ -742,12 +742,12 @@
   (net 650 "Net-(K_131-Pad4)")
   (net 651 "Net-(D_131-Pad1)")
   (net 652 "Net-(D_131-Pad2)")
-  (net 653 "Net-(K_127-Pad1)")
-  (net 654 "Net-(K_127-Pad2)")
-  (net 655 "Net-(K_127-Pad3)")
-  (net 656 "Net-(K_127-Pad4)")
-  (net 657 "Net-(D_127-Pad1)")
-  (net 658 "Net-(D_127-Pad2)")
+  (net 653 "Net-(K_128-Pad1)")
+  (net 654 "Net-(K_128-Pad2)")
+  (net 655 "Net-(K_128-Pad3)")
+  (net 656 "Net-(K_128-Pad4)")
+  (net 657 "Net-(D_128-Pad1)")
+  (net 658 "Net-(D_128-Pad2)")
   (net 659 "Net-(K_76-Pad1)")
   (net 660 "Net-(K_76-Pad2)")
   (net 661 "Net-(K_76-Pad3)")
@@ -1163,24 +1163,24 @@
   (add_net "Net-(K_20-Pad4)")
   (add_net "Net-(D_20-Pad1)")
   (add_net "Net-(D_20-Pad2)")
-  (add_net "Net-(K_119-Pad1)")
-  (add_net "Net-(K_119-Pad2)")
-  (add_net "Net-(K_119-Pad3)")
-  (add_net "Net-(K_119-Pad4)")
-  (add_net "Net-(D_119-Pad1)")
-  (add_net "Net-(D_119-Pad2)")
-  (add_net "Net-(K_120-Pad1)")
-  (add_net "Net-(K_120-Pad2)")
-  (add_net "Net-(K_120-Pad3)")
-  (add_net "Net-(K_120-Pad4)")
-  (add_net "Net-(D_120-Pad1)")
-  (add_net "Net-(D_120-Pad2)")
   (add_net "Net-(K_114-Pad1)")
   (add_net "Net-(K_114-Pad2)")
   (add_net "Net-(K_114-Pad3)")
   (add_net "Net-(K_114-Pad4)")
   (add_net "Net-(D_114-Pad1)")
   (add_net "Net-(D_114-Pad2)")
+  (add_net "Net-(K_115-Pad1)")
+  (add_net "Net-(K_115-Pad2)")
+  (add_net "Net-(K_115-Pad3)")
+  (add_net "Net-(K_115-Pad4)")
+  (add_net "Net-(D_115-Pad1)")
+  (add_net "Net-(D_115-Pad2)")
+  (add_net "Net-(K_116-Pad1)")
+  (add_net "Net-(K_116-Pad2)")
+  (add_net "Net-(K_116-Pad3)")
+  (add_net "Net-(K_116-Pad4)")
+  (add_net "Net-(D_116-Pad1)")
+  (add_net "Net-(D_116-Pad2)")
   (add_net "Net-(K_111-Pad1)")
   (add_net "Net-(K_111-Pad2)")
   (add_net "Net-(K_111-Pad3)")
@@ -1313,48 +1313,48 @@
   (add_net "Net-(K_40-Pad4)")
   (add_net "Net-(D_40-Pad1)")
   (add_net "Net-(D_40-Pad2)")
-  (add_net "Net-(K_126-Pad1)")
-  (add_net "Net-(K_126-Pad2)")
-  (add_net "Net-(K_126-Pad3)")
-  (add_net "Net-(K_126-Pad4)")
-  (add_net "Net-(D_126-Pad1)")
-  (add_net "Net-(D_126-Pad2)")
   (add_net "Net-(K_121-Pad1)")
   (add_net "Net-(K_121-Pad2)")
   (add_net "Net-(K_121-Pad3)")
   (add_net "Net-(K_121-Pad4)")
   (add_net "Net-(D_121-Pad1)")
   (add_net "Net-(D_121-Pad2)")
-  (add_net "Net-(K_115-Pad1)")
-  (add_net "Net-(K_115-Pad2)")
-  (add_net "Net-(K_115-Pad3)")
-  (add_net "Net-(K_115-Pad4)")
-  (add_net "Net-(D_115-Pad1)")
-  (add_net "Net-(D_115-Pad2)")
   (add_net "Net-(K_122-Pad1)")
   (add_net "Net-(K_122-Pad2)")
   (add_net "Net-(K_122-Pad3)")
   (add_net "Net-(K_122-Pad4)")
   (add_net "Net-(D_122-Pad1)")
   (add_net "Net-(D_122-Pad2)")
-  (add_net "Net-(K_116-Pad1)")
-  (add_net "Net-(K_116-Pad2)")
-  (add_net "Net-(K_116-Pad3)")
-  (add_net "Net-(K_116-Pad4)")
-  (add_net "Net-(D_116-Pad1)")
-  (add_net "Net-(D_116-Pad2)")
   (add_net "Net-(K_117-Pad1)")
   (add_net "Net-(K_117-Pad2)")
   (add_net "Net-(K_117-Pad3)")
   (add_net "Net-(K_117-Pad4)")
   (add_net "Net-(D_117-Pad1)")
   (add_net "Net-(D_117-Pad2)")
+  (add_net "Net-(K_123-Pad1)")
+  (add_net "Net-(K_123-Pad2)")
+  (add_net "Net-(K_123-Pad3)")
+  (add_net "Net-(K_123-Pad4)")
+  (add_net "Net-(D_123-Pad1)")
+  (add_net "Net-(D_123-Pad2)")
   (add_net "Net-(K_118-Pad1)")
   (add_net "Net-(K_118-Pad2)")
   (add_net "Net-(K_118-Pad3)")
   (add_net "Net-(K_118-Pad4)")
   (add_net "Net-(D_118-Pad1)")
   (add_net "Net-(D_118-Pad2)")
+  (add_net "Net-(K_119-Pad1)")
+  (add_net "Net-(K_119-Pad2)")
+  (add_net "Net-(K_119-Pad3)")
+  (add_net "Net-(K_119-Pad4)")
+  (add_net "Net-(D_119-Pad1)")
+  (add_net "Net-(D_119-Pad2)")
+  (add_net "Net-(K_120-Pad1)")
+  (add_net "Net-(K_120-Pad2)")
+  (add_net "Net-(K_120-Pad3)")
+  (add_net "Net-(K_120-Pad4)")
+  (add_net "Net-(D_120-Pad1)")
+  (add_net "Net-(D_120-Pad2)")
   (add_net "Net-(K_41-Pad1)")
   (add_net "Net-(K_41-Pad2)")
   (add_net "Net-(K_41-Pad3)")
@@ -1463,18 +1463,12 @@
   (add_net "Net-(K_58-Pad4)")
   (add_net "Net-(D_58-Pad1)")
   (add_net "Net-(D_58-Pad2)")
-  (add_net "Net-(K_128-Pad1)")
-  (add_net "Net-(K_128-Pad2)")
-  (add_net "Net-(K_128-Pad3)")
-  (add_net "Net-(K_128-Pad4)")
-  (add_net "Net-(D_128-Pad1)")
-  (add_net "Net-(D_128-Pad2)")
-  (add_net "Net-(K_123-Pad1)")
-  (add_net "Net-(K_123-Pad2)")
-  (add_net "Net-(K_123-Pad3)")
-  (add_net "Net-(K_123-Pad4)")
-  (add_net "Net-(D_123-Pad1)")
-  (add_net "Net-(D_123-Pad2)")
+  (add_net "Net-(K_127-Pad1)")
+  (add_net "Net-(K_127-Pad2)")
+  (add_net "Net-(K_127-Pad3)")
+  (add_net "Net-(K_127-Pad4)")
+  (add_net "Net-(D_127-Pad1)")
+  (add_net "Net-(D_127-Pad2)")
   (add_net "Net-(K_124-Pad1)")
   (add_net "Net-(K_124-Pad2)")
   (add_net "Net-(K_124-Pad3)")
@@ -1487,6 +1481,12 @@
   (add_net "Net-(K_125-Pad4)")
   (add_net "Net-(D_125-Pad1)")
   (add_net "Net-(D_125-Pad2)")
+  (add_net "Net-(K_126-Pad1)")
+  (add_net "Net-(K_126-Pad2)")
+  (add_net "Net-(K_126-Pad3)")
+  (add_net "Net-(K_126-Pad4)")
+  (add_net "Net-(D_126-Pad1)")
+  (add_net "Net-(D_126-Pad2)")
   (add_net "Net-(K_59-Pad1)")
   (add_net "Net-(K_59-Pad2)")
   (add_net "Net-(K_59-Pad3)")
@@ -1595,12 +1595,12 @@
   (add_net "Net-(K_131-Pad4)")
   (add_net "Net-(D_131-Pad1)")
   (add_net "Net-(D_131-Pad2)")
-  (add_net "Net-(K_127-Pad1)")
-  (add_net "Net-(K_127-Pad2)")
-  (add_net "Net-(K_127-Pad3)")
-  (add_net "Net-(K_127-Pad4)")
-  (add_net "Net-(D_127-Pad1)")
-  (add_net "Net-(D_127-Pad2)")
+  (add_net "Net-(K_128-Pad1)")
+  (add_net "Net-(K_128-Pad2)")
+  (add_net "Net-(K_128-Pad3)")
+  (add_net "Net-(K_128-Pad4)")
+  (add_net "Net-(D_128-Pad1)")
+  (add_net "Net-(D_128-Pad2)")
   (add_net "Net-(K_76-Pad1)")
   (add_net "Net-(K_76-Pad2)")
   (add_net "Net-(K_76-Pad3)")
@@ -1792,7 +1792,7 @@
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 670)
   (at
-  63.341751296027304
+  62.10912559372656
   9.525
   )
   (path /00001031)
@@ -1832,7 +1832,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 671)
     (at
-    71.8667512960273
+    70.63412559372655
     10.025
     90)
     (descr SOD-123)
@@ -1880,7 +1880,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 680)
   (at
-  81.74263828683407
+  80.51001258453331
   14.455502809203018
   )
   (path /00001041)
@@ -1920,7 +1920,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 681)
     (at
-    90.26763828683406
+    89.0350125845333
     14.955502809203018
     90)
     (descr SOD-123)
@@ -1968,7 +1968,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 30)
   (at
-  155.61431207130875
+  154.38168636900798
   15.016117274691695
   )
   (path /00000031)
@@ -2008,7 +2008,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 31)
     (at
-    164.13931207130875
+    162.90668636900799
     15.516117274691695
     90)
     (descr SOD-123)
@@ -2056,7 +2056,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 00)
   (at
-  474.7018120713087
+  473.46918636900796
   10.253617274691694
   )
   (path /00000001)
@@ -2096,7 +2096,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 01)
     (at
-    483.22681207130876
+    481.99418636900793
     10.753617274691694
     90)
     (descr SOD-123)
@@ -2144,7 +2144,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 10)
   (at
-  493.75181207130873
+  492.51918636900797
   10.253617274691694
   )
   (path /00000011)
@@ -2184,7 +2184,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 11)
     (at
-    502.27681207130877
+    501.04418636900795
     10.753617274691694
     90)
     (descr SOD-123)
@@ -2232,7 +2232,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 20)
   (at
-  512.8018120713087
+  511.5691863690079
   10.253617274691694
   )
   (path /00000021)
@@ -2272,7 +2272,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 21)
     (at
-    521.3268120713087
+    520.094186369008
     10.753617274691694
     90)
     (descr SOD-123)
@@ -2320,7 +2320,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 6c0)
   (at
-  49.21080499142092
+  47.97817928912016
   25.460635586205242
   )
   (path /00001081)
@@ -2360,7 +2360,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 6c1)
     (at
-    57.73580499142092
+    56.50317928912016
     25.960635586205242
     90)
     (descr SOD-123)
@@ -2408,7 +2408,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 6d0)
   (at
-  67.61169198222768
+  66.37906627992692
   30.391138395408266
   )
   (path /00001091)
@@ -2448,7 +2448,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 6d1)
     (at
-    76.13669198222767
+    74.90406627992691
     30.891138395408266
     90)
     (descr SOD-123)
@@ -2496,7 +2496,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 6e0)
   (at
-  86.01257897303441
+  84.77995327073366
   35.32164120461128
   )
   (path /00001101)
@@ -2536,7 +2536,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 6e1)
     (at
-    94.53757897303441
+    93.30495327073366
     35.82164120461128
     90)
     (descr SOD-123)
@@ -2584,7 +2584,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 690)
   (at
-  100.1435252776408
+  98.91089957534004
   19.386005618406042
   )
   (path /00001051)
@@ -2624,7 +2624,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 691)
     (at
-    108.6685252776408
+    107.43589957534004
     19.886005618406042
     90)
     (descr SOD-123)
@@ -2672,7 +2672,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 6a0)
   (at
-  118.54441226844756
+  117.31178656614681
   24.31650842760906
   )
   (path /00001061)
@@ -2712,7 +2712,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 6a1)
     (at
-    127.06941226844756
+    125.8367865661468
     24.81650842760906
     90)
     (descr SOD-123)
@@ -2760,7 +2760,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 6b0)
   (at
-  136.9452992592543
+  135.71267355695358
   29.24701123681208
   )
   (path /00001071)
@@ -2783,9 +2783,9 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 10 "col7"))
+    (net 9 "col6"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 10 "col7"))
+    (net 9 "col6"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
     (net 112 "Net-(D_107-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
@@ -2800,7 +2800,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 6b1)
     (at
-    145.47029925925432
+    144.23767355695358
     29.74701123681208
     90)
     (descr SOD-123)
@@ -2848,7 +2848,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 150)
   (at
-  160.37681207130873
+  159.144186369008
   34.0661172746917
   )
   (path /00000211)
@@ -2888,7 +2888,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 151)
     (at
-    168.90181207130874
+    167.66918636900797
     34.5661172746917
     90)
     (descr SOD-123)
@@ -2936,7 +2936,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 40)
   (at
-  184.18931207130873
+  182.956686369008
   29.303617274691696
   )
   (path /00000041)
@@ -2976,7 +2976,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 41)
     (at
-    192.71431207130874
+    191.48168636900797
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3024,7 +3024,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 50)
   (at
-  222.28931207130873
+  221.056686369008
   29.303617274691696
   )
   (path /00000051)
@@ -3064,7 +3064,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 51)
     (at
-    230.81431207130873
+    229.581686369008
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3112,7 +3112,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 60)
   (at
-  241.33931207130874
+  240.10668636900797
   29.303617274691696
   )
   (path /00000061)
@@ -3152,7 +3152,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 61)
     (at
-    249.86431207130875
+    248.63168636900798
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3200,7 +3200,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 70)
   (at
-  260.3893120713087
+  259.15668636900796
   29.303617274691696
   )
   (path /00000071)
@@ -3240,7 +3240,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 71)
     (at
-    268.91431207130876
+    267.681686369008
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3288,7 +3288,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 80)
   (at
-  279.43931207130873
+  278.20668636900797
   29.303617274691696
   )
   (path /00000081)
@@ -3328,7 +3328,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 81)
     (at
-    287.96431207130877
+    286.731686369008
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3376,7 +3376,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 90)
   (at
-  308.0143120713087
+  306.78168636900796
   29.303617274691696
   )
   (path /00000091)
@@ -3416,7 +3416,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 91)
     (at
-    316.53931207130876
+    315.30668636900793
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3464,7 +3464,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp a0)
   (at
-  327.06431207130873
+  325.83168636900797
   29.303617274691696
   )
   (path /00000101)
@@ -3504,7 +3504,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp a1)
     (at
-    335.58931207130877
+    334.35668636900795
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3552,7 +3552,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp b0)
   (at
-  346.11431207130875
+  344.8816863690079
   29.303617274691696
   )
   (path /00000111)
@@ -3592,7 +3592,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp b1)
     (at
-    354.6393120713087
+    353.40668636900796
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3640,7 +3640,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp c0)
   (at
-  365.16431207130876
+  363.93168636900793
   29.303617274691696
   )
   (path /00000121)
@@ -3680,7 +3680,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp c1)
     (at
-    373.68931207130873
+    372.45668636900797
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3728,7 +3728,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp d0)
   (at
-  393.73931207130875
+  392.5066863690079
   29.303617274691696
   )
   (path /00000131)
@@ -3768,7 +3768,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp d1)
     (at
-    402.2643120713087
+    401.03168636900796
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3816,7 +3816,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp e0)
   (at
-  412.78931207130876
+  411.55668636900793
   29.303617274691696
   )
   (path /00000141)
@@ -3856,7 +3856,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp e1)
     (at
-    421.31431207130873
+    420.08168636900797
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3904,7 +3904,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp f0)
   (at
-  431.83931207130877
+  430.60668636900795
   29.303617274691696
   )
   (path /00000151)
@@ -3944,7 +3944,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp f1)
     (at
-    440.36431207130875
+    439.1316863690079
     29.803617274691696
     90)
     (descr SOD-123)
@@ -3992,7 +3992,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 100)
   (at
-  450.8893120713087
+  449.65668636900796
   29.303617274691696
   )
   (path /00000161)
@@ -4032,7 +4032,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 101)
     (at
-    459.41431207130876
+    458.18168636900793
     29.803617274691696
     90)
     (descr SOD-123)
@@ -4080,7 +4080,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 110)
   (at
-  474.7018120713087
+  473.46918636900796
   29.303617274691696
   )
   (path /00000171)
@@ -4120,7 +4120,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 111)
     (at
-    483.22681207130876
+    481.99418636900793
     29.803617274691696
     90)
     (descr SOD-123)
@@ -4168,7 +4168,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 120)
   (at
-  493.75181207130873
+  492.51918636900797
   29.303617274691696
   )
   (path /00000181)
@@ -4208,7 +4208,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 121)
     (at
-    502.27681207130877
+    501.04418636900795
     29.803617274691696
     90)
     (descr SOD-123)
@@ -4256,7 +4256,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 130)
   (at
-  512.8018120713087
+  511.5691863690079
   29.303617274691696
   )
   (path /00000191)
@@ -4296,7 +4296,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 131)
     (at
-    521.3268120713087
+    520.094186369008
     29.803617274691696
     90)
     (descr SOD-123)
@@ -4344,7 +4344,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 140)
   (at
-  531.8518120713087
+  530.6191863690079
   29.303617274691696
   )
   (path /00000201)
@@ -4384,7 +4384,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 141)
     (at
-    540.3768120713088
+    539.1441863690079
     29.803617274691696
     90)
     (descr SOD-123)
@@ -4430,186 +4430,10 @@
   )
 
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 770)
-  (at
-  24.646789489110393
-  43.53124151551066
-  )
-  (path /00001191)
-  (fp_text reference K_119 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 4 "col1"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 4 "col1"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 226 "Net-(D_119-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 226 "Net-(D_119-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 771)
-    (at
-    33.171789489110395
-    44.03124151551066
-    90)
-    (descr SOD-123)
-    (tags SOD-123)
-    (path /00001190)
-    (attr smd)
-    (fp_text reference D_119 (at 0 2 90) (layer B.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
-    (fp_text user %R (at 0 2 270) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 226 "Net-(D_119-Pad2)"))
-    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 34 "row2"))
-    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 780)
-  (at
-  43.04767647991714
-  48.46174432471367
-  )
-  (path /00001201)
-  (fp_text reference K_120 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 5 "col2"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 5 "col2"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 232 "Net-(D_120-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 232 "Net-(D_120-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 781)
-    (at
-    51.57267647991714
-    48.96174432471367
-    90)
-    (descr SOD-123)
-    (tags SOD-123)
-    (path /00001200)
-    (attr smd)
-    (fp_text reference D_120 (at 0 2 90) (layer B.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
-    (fp_text user %R (at 0 2 270) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 232 "Net-(D_120-Pad2)"))
-    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 34 "row2"))
-    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 720)
   (at
-  65.06243917302464
-  48.792025386215016
+  20.0465677414087
+  37.69839406550821
   )
   (path /00001141)
   (fp_text reference K_114 (at 0 3.175) (layer Dwgs.User)
@@ -4626,18 +4450,18 @@
   (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
   (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
   (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 6 "col3"))
+    (net 3 "col0"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 6 "col3"))
+    (net 3 "col0"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 238 "Net-(D_114-Pad2)"))
+    (net 226 "Net-(D_114-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 238 "Net-(D_114-Pad2)"))
+    (net 226 "Net-(D_114-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -4648,8 +4472,8 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 721)
     (at
-    75.96868917302464
-    49.292025386215016
+    28.571567741408703
+    38.19839406550821
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -4683,7 +4507,183 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 238 "Net-(D_114-Pad2)"))
+      (net 226 "Net-(D_114-Pad2)"))
+    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 34 "row2"))
+    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
+  (tstamp 730)
+  (at
+  38.44745473221545
+  42.628896874711224
+  )
+  (path /00001151)
+  (fp_text reference K_115 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 4 "col1"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 4 "col1"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 232 "Net-(D_115-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 232 "Net-(D_115-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 731)
+    (at
+    46.972454732215446
+    43.128896874711224
+    90)
+    (descr SOD-123)
+    (tags SOD-123)
+    (path /00001150)
+    (attr smd)
+    (fp_text reference D_115 (at 0 2 90) (layer B.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
+    (fp_text user %R (at 0 2 270) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 232 "Net-(D_115-Pad2)"))
+    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 34 "row2"))
+    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
+  (tstamp 740)
+  (at
+  63.82981347072389
+  48.792025386215016
+  )
+  (path /00001161)
+  (fp_text reference K_116 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 6 "col3"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 6 "col3"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 238 "Net-(D_116-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 238 "Net-(D_116-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 741)
+    (at
+    74.73606347072389
+    49.292025386215016
+    90)
+    (descr SOD-123)
+    (tags SOD-123)
+    (path /00001160)
+    (attr smd)
+    (fp_text reference D_116 (at 0 2 90) (layer B.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
+    (fp_text user %R (at 0 2 270) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 238 "Net-(D_116-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 34 "row2"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -4696,7 +4696,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 6f0)
   (at
-  104.41346596384118
+  103.18084026154041
   40.2521440138143
   )
   (path /00001111)
@@ -4736,7 +4736,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 6f1)
     (at
-    112.93846596384117
+    111.70584026154042
     40.7521440138143
     90)
     (descr SOD-123)
@@ -4784,7 +4784,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 700)
   (at
-  122.81435295464792
+  121.58172725234715
   45.18264682301732
   )
   (path /00001121)
@@ -4824,7 +4824,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 701)
     (at
-    131.33935295464792
+    130.10672725234716
     45.68264682301732
     90)
     (descr SOD-123)
@@ -4872,7 +4872,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 710)
   (at
-  141.21523994545467
+  139.9826142431539
   50.11314963222034
   )
   (path /00001131)
@@ -4912,7 +4912,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 711)
     (at
-    149.74023994545468
+    148.5076142431539
     50.61314963222034
     90)
     (descr SOD-123)
@@ -4960,7 +4960,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 160)
   (at
-  160.37681207130873
+  159.144186369008
   53.11611727469169
   )
   (path /00000221)
@@ -5000,7 +5000,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 161)
     (at
-    168.90181207130874
+    167.66918636900797
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5048,7 +5048,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 170)
   (at
-  184.18931207130873
+  182.956686369008
   53.11611727469169
   )
   (path /00000231)
@@ -5088,7 +5088,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 171)
     (at
-    192.71431207130874
+    191.48168636900797
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5136,7 +5136,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 180)
   (at
-  203.23931207130875
+  202.00668636900798
   53.11611727469169
   )
   (path /00000241)
@@ -5176,7 +5176,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 181)
     (at
-    211.76431207130875
+    210.53168636900799
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5224,7 +5224,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 190)
   (at
-  222.28931207130873
+  221.056686369008
   53.11611727469169
   )
   (path /00000251)
@@ -5264,7 +5264,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 191)
     (at
-    230.81431207130873
+    229.581686369008
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5312,7 +5312,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 1a0)
   (at
-  241.33931207130874
+  240.10668636900797
   53.11611727469169
   )
   (path /00000261)
@@ -5352,7 +5352,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 1a1)
     (at
-    249.86431207130875
+    248.63168636900798
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5400,7 +5400,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 1b0)
   (at
-  260.3893120713087
+  259.15668636900796
   53.11611727469169
   )
   (path /00000271)
@@ -5440,7 +5440,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 1b1)
     (at
-    268.91431207130876
+    267.681686369008
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5488,7 +5488,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 1c0)
   (at
-  279.43931207130873
+  278.20668636900797
   53.11611727469169
   )
   (path /00000281)
@@ -5528,7 +5528,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 1c1)
     (at
-    287.96431207130877
+    286.731686369008
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5576,7 +5576,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 1d0)
   (at
-  298.48931207130875
+  297.256686369008
   53.11611727469169
   )
   (path /00000291)
@@ -5616,7 +5616,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 1d1)
     (at
-    307.0143120713087
+    305.78168636900796
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5664,7 +5664,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 1e0)
   (at
-  317.53931207130876
+  316.30668636900793
   53.11611727469169
   )
   (path /00000301)
@@ -5704,7 +5704,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 1e1)
     (at
-    326.06431207130873
+    324.83168636900797
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5752,7 +5752,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 1f0)
   (at
-  336.58931207130877
+  335.35668636900795
   53.11611727469169
   )
   (path /00000311)
@@ -5792,7 +5792,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 1f1)
     (at
-    345.11431207130875
+    343.8816863690079
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5840,7 +5840,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 200)
   (at
-  355.6393120713087
+  354.40668636900796
   53.11611727469169
   )
   (path /00000321)
@@ -5880,7 +5880,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 201)
     (at
-    364.16431207130876
+    362.93168636900793
     53.61611727469169
     90)
     (descr SOD-123)
@@ -5928,7 +5928,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 210)
   (at
-  374.68931207130873
+  373.45668636900797
   53.11611727469169
   )
   (path /00000331)
@@ -5968,7 +5968,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 211)
     (at
-    383.21431207130877
+    381.98168636900795
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6016,7 +6016,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 220)
   (at
-  393.73931207130875
+  392.5066863690079
   53.11611727469169
   )
   (path /00000341)
@@ -6056,7 +6056,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 221)
     (at
-    402.2643120713087
+    401.03168636900796
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6104,7 +6104,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 230)
   (at
-  412.78931207130876
+  411.55668636900793
   53.11611727469169
   )
   (path /00000351)
@@ -6144,7 +6144,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 231)
     (at
-    421.31431207130873
+    420.08168636900797
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6192,7 +6192,7 @@
 (module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 240)
   (at
-  441.36431207130875
+  440.1316863690079
   53.11611727469169
   )
   (path /00000361)
@@ -6235,7 +6235,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 241)
     (at
-    459.41431207130876
+    458.18168636900793
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6283,7 +6283,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 250)
   (at
-  474.7018120713087
+  473.46918636900796
   53.11611727469169
   )
   (path /00000371)
@@ -6323,7 +6323,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 251)
     (at
-    483.22681207130876
+    481.99418636900793
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6371,7 +6371,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 260)
   (at
-  493.75181207130873
+  492.51918636900797
   53.11611727469169
   )
   (path /00000381)
@@ -6411,7 +6411,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 261)
     (at
-    502.27681207130877
+    501.04418636900795
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6459,7 +6459,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 270)
   (at
-  512.8018120713087
+  511.5691863690079
   53.11611727469169
   )
   (path /00000391)
@@ -6499,7 +6499,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 271)
     (at
-    521.3268120713087
+    520.094186369008
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6547,7 +6547,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 280)
   (at
-  531.8518120713087
+  530.6191863690079
   53.11611727469169
   )
   (path /00000401)
@@ -6587,7 +6587,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 281)
     (at
-    540.3768120713088
+    539.1441863690079
     53.61611727469169
     90)
     (descr SOD-123)
@@ -6633,98 +6633,10 @@
   )
 
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 7e0)
-  (at
-  31.297980175310744
-  64.39737991091891
-  )
-  (path /00001261)
-  (fp_text reference K_126 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 4 "col1"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 4 "col1"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 376 "Net-(D_126-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 376 "Net-(D_126-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7e1)
-    (at
-    42.20423017531075
-    64.89737991091891
-    90)
-    (descr SOD-123)
-    (tags SOD-123)
-    (path /00001260)
-    (attr smd)
-    (fp_text reference D_126 (at 0 2 90) (layer B.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
-    (fp_text user %R (at 0 2 270) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 376 "Net-(D_126-Pad2)"))
-    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 35 "row3"))
-    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 790)
   (at
-  60.13193636382163
-  67.19291237702176
+  31.297980175310744
+  59.79715816321723
   )
   (path /00001211)
   (fp_text reference K_121 (at 0 3.175) (layer Dwgs.User)
@@ -6746,13 +6658,13 @@
   (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 6 "col3"))
+    (net 4 "col1"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 6 "col3"))
+    (net 4 "col1"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 382 "Net-(D_121-Pad2)"))
+    (net 376 "Net-(D_121-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 382 "Net-(D_121-Pad2)"))
+    (net 376 "Net-(D_121-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -6763,8 +6675,8 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 791)
     (at
-    71.03818636382164
-    67.69291237702176
+    42.20423017531075
+    60.29715816321723
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -6798,95 +6710,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 382 "Net-(D_121-Pad2)"))
-    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 35 "row3"))
-    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 730)
-  (at
-  88.06354791153309
-  54.955153897718795
-  )
-  (path /00001151)
-  (fp_text reference K_115 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 7 "col4"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 7 "col4"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 388 "Net-(D_115-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 388 "Net-(D_115-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 731)
-    (at
-    98.96979791153309
-    55.455153897718795
-    90)
-    (descr SOD-123)
-    (tags SOD-123)
-    (path /00001150)
-    (attr smd)
-    (fp_text reference D_115 (at 0 2 90) (layer B.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
-    (fp_text user %R (at 0 2 270) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 388 "Net-(D_115-Pad2)"))
+      (net 376 "Net-(D_121-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 35 "row3"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -6899,8 +6723,8 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 7a0)
   (at
-  83.13304510233007
-  73.35604088852553
+  58.89931066152088
+  67.19291237702176
   )
   (path /00001221)
   (fp_text reference K_122 (at 0 3.175) (layer Dwgs.User)
@@ -6922,13 +6746,13 @@
   (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 7 "col4"))
+    (net 5 "col2"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 7 "col4"))
+    (net 5 "col2"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 394 "Net-(D_122-Pad2)"))
+    (net 382 "Net-(D_122-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 394 "Net-(D_122-Pad2)"))
+    (net 382 "Net-(D_122-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -6939,8 +6763,8 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7a1)
     (at
-    94.03929510233007
-    73.85604088852553
+    69.80556066152087
+    67.69291237702176
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -6974,7 +6798,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 394 "Net-(D_122-Pad2)"))
+      (net 382 "Net-(D_122-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 35 "row3"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -6985,13 +6809,13 @@
   )
 
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 740)
+  (tstamp 750)
   (at
-  111.06465665004153
-  61.11828240922256
+  86.83092220923234
+  54.955153897718795
   )
-  (path /00001161)
-  (fp_text reference K_116 (at 0 3.175) (layer Dwgs.User)
+  (path /00001171)
+  (fp_text reference K_117 (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -7010,101 +6834,13 @@
   (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 8 "col5"))
+    (net 7 "col4"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 8 "col5"))
+    (net 7 "col4"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 400 "Net-(D_116-Pad2)"))
+    (net 388 "Net-(D_117-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 400 "Net-(D_116-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 741)
-    (at
-    121.97090665004153
-    61.61828240922256
-    90)
-    (descr SOD-123)
-    (tags SOD-123)
-    (path /00001160)
-    (attr smd)
-    (fp_text reference D_116 (at 0 2 90) (layer B.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
-    (fp_text user %R (at 0 2 270) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 400 "Net-(D_116-Pad2)"))
-    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 35 "row3"))
-    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 750)
-  (at
-  136.28473713625164
-  68.5140366230271
-  )
-  (path /00001171)
-  (fp_text reference K_117 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 10 "col7"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 10 "col7"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 406 "Net-(D_117-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 406 "Net-(D_117-Pad2)"))
+    (net 388 "Net-(D_117-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -7115,8 +6851,8 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 751)
     (at
-    144.80973713625164
-    69.0140366230271
+    97.73717220923234
+    55.455153897718795
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -7150,7 +6886,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 406 "Net-(D_117-Pad2)"))
+      (net 388 "Net-(D_117-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 35 "row3"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -7160,11 +6896,99 @@
     )
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
+  (tstamp 7b0)
+  (at
+  81.9004194000293
+  73.35604088852553
+  )
+  (path /00001231)
+  (fp_text reference K_123 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 7 "col4"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 7 "col4"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 394 "Net-(D_123-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 394 "Net-(D_123-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7b1)
+    (at
+    92.8066694000293
+    73.85604088852553
+    90)
+    (descr SOD-123)
+    (tags SOD-123)
+    (path /00001230)
+    (attr smd)
+    (fp_text reference D_123 (at 0 2 90) (layer B.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
+    (fp_text user %R (at 0 2 270) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 394 "Net-(D_123-Pad2)"))
+    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 35 "row3"))
+    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 760)
   (at
-  154.6856241270584
-  73.4445394322301
+  109.83203094774076
+  61.11828240922256
   )
   (path /00001181)
   (fp_text reference K_118 (at 0 3.175) (layer Dwgs.User)
@@ -7181,18 +7005,18 @@
   (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
   (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
   (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 10 "col7"))
+    (net 8 "col5"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 10 "col7"))
+    (net 8 "col5"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 412 "Net-(D_118-Pad2)"))
+    (net 400 "Net-(D_118-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 412 "Net-(D_118-Pad2)"))
+    (net 400 "Net-(D_118-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -7203,8 +7027,8 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 761)
     (at
-    163.2106241270584
-    73.9445394322301
+    120.73828094774076
+    61.61828240922256
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -7238,7 +7062,183 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 412 "Net-(D_118-Pad2)"))
+      (net 400 "Net-(D_118-Pad2)"))
+    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 35 "row3"))
+    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
+  (tstamp 770)
+  (at
+  135.0521114339509
+  68.5140366230271
+  )
+  (path /00001191)
+  (fp_text reference K_119 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 9 "col6"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 9 "col6"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 406 "Net-(D_119-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 406 "Net-(D_119-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 771)
+    (at
+    143.5771114339509
+    69.0140366230271
+    90)
+    (descr SOD-123)
+    (tags SOD-123)
+    (path /00001190)
+    (attr smd)
+    (fp_text reference D_119 (at 0 2 90) (layer B.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
+    (fp_text user %R (at 0 2 270) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 406 "Net-(D_119-Pad2)"))
+    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 35 "row3"))
+    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
+  (tstamp 780)
+  (at
+  153.45299842475765
+  73.4445394322301
+  )
+  (path /00001201)
+  (fp_text reference K_120 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 10 "col7"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 10 "col7"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 412 "Net-(D_120-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 412 "Net-(D_120-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 781)
+    (at
+    161.97799842475766
+    73.9445394322301
+    90)
+    (descr SOD-123)
+    (tags SOD-123)
+    (path /00001200)
+    (attr smd)
+    (fp_text reference D_120 (at 0 2 90) (layer B.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
+    (fp_text user %R (at 0 2 270) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 412 "Net-(D_120-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 35 "row3"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -7251,7 +7251,7 @@
 (module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 290)
   (at
-  188.95181207130875
+  187.71918636900799
   72.16611727469169
   )
   (path /00000411)
@@ -7291,7 +7291,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 291)
     (at
-    202.23931207130875
+    201.00668636900798
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7339,7 +7339,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 2a0)
   (at
-  212.76431207130875
+  211.53168636900799
   72.16611727469169
   )
   (path /00000421)
@@ -7379,7 +7379,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 2a1)
     (at
-    221.28931207130873
+    220.056686369008
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7427,7 +7427,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 2b0)
   (at
-  231.81431207130873
+  230.581686369008
   72.16611727469169
   )
   (path /00000431)
@@ -7467,7 +7467,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 2b1)
     (at
-    240.33931207130874
+    239.10668636900797
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7515,7 +7515,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 2c0)
   (at
-  250.86431207130875
+  249.63168636900798
   72.16611727469169
   )
   (path /00000441)
@@ -7555,7 +7555,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 2c1)
     (at
-    259.3893120713087
+    258.15668636900796
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7603,7 +7603,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 2d0)
   (at
-  269.91431207130876
+  268.681686369008
   72.16611727469169
   )
   (path /00000451)
@@ -7643,7 +7643,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 2d1)
     (at
-    278.43931207130873
+    277.20668636900797
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7691,7 +7691,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 2e0)
   (at
-  288.96431207130877
+  287.731686369008
   72.16611727469169
   )
   (path /00000461)
@@ -7731,7 +7731,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 2e1)
     (at
-    297.48931207130875
+    296.256686369008
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7779,7 +7779,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 2f0)
   (at
-  308.0143120713087
+  306.78168636900796
   72.16611727469169
   )
   (path /00000471)
@@ -7819,7 +7819,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 2f1)
     (at
-    316.53931207130876
+    315.30668636900793
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7867,7 +7867,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 300)
   (at
-  327.06431207130873
+  325.83168636900797
   72.16611727469169
   )
   (path /00000481)
@@ -7907,7 +7907,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 301)
     (at
-    335.58931207130877
+    334.35668636900795
     72.66611727469169
     90)
     (descr SOD-123)
@@ -7955,7 +7955,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 310)
   (at
-  346.11431207130875
+  344.8816863690079
   72.16611727469169
   )
   (path /00000491)
@@ -7995,7 +7995,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 311)
     (at
-    354.6393120713087
+    353.40668636900796
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8043,7 +8043,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 320)
   (at
-  365.16431207130876
+  363.93168636900793
   72.16611727469169
   )
   (path /00000501)
@@ -8083,7 +8083,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 321)
     (at
-    373.68931207130873
+    372.45668636900797
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8131,7 +8131,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 330)
   (at
-  384.21431207130877
+  382.98168636900795
   72.16611727469169
   )
   (path /00000511)
@@ -8171,7 +8171,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 331)
     (at
-    392.73931207130875
+    391.5066863690079
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8219,7 +8219,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 340)
   (at
-  403.2643120713087
+  402.03168636900796
   72.16611727469169
   )
   (path /00000521)
@@ -8259,7 +8259,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 341)
     (at
-    411.78931207130876
+    410.55668636900793
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8307,7 +8307,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 350)
   (at
-  422.31431207130873
+  421.08168636900797
   72.16611727469169
   )
   (path /00000531)
@@ -8347,7 +8347,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 351)
     (at
-    430.83931207130877
+    429.60668636900795
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8395,7 +8395,7 @@
 (module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 360)
   (at
-  446.12681207130873
+  444.89418636900797
   72.16611727469169
   )
   (path /00000541)
@@ -8435,7 +8435,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 361)
     (at
-    459.41431207130876
+    458.18168636900793
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8483,7 +8483,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 370)
   (at
-  474.7018120713087
+  473.46918636900796
   72.16611727469169
   )
   (path /00000551)
@@ -8523,7 +8523,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 371)
     (at
-    483.22681207130876
+    481.99418636900793
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8571,7 +8571,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 380)
   (at
-  493.75181207130873
+  492.51918636900797
   72.16611727469169
   )
   (path /00000561)
@@ -8611,7 +8611,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 381)
     (at
-    502.27681207130877
+    501.04418636900795
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8659,7 +8659,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 390)
   (at
-  512.8018120713087
+  511.5691863690079
   72.16611727469169
   )
   (path /00000571)
@@ -8699,7 +8699,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 391)
     (at
-    521.3268120713087
+    520.094186369008
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8747,7 +8747,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 3a0)
   (at
-  531.8518120713087
+  530.6191863690079
   72.16611727469169
   )
   (path /00000581)
@@ -8787,7 +8787,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 3a1)
     (at
-    540.3768120713088
+    539.1441863690079
     72.66611727469169
     90)
     (descr SOD-123)
@@ -8833,13 +8833,13 @@
   )
 
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 800)
+  (tstamp 7f0)
   (at
   21.76725561840604
-  81.5656411994249
+  76.96541945172322
   )
-  (path /00001281)
-  (fp_text reference K_128 (at 0 3.175) (layer Dwgs.User)
+  (path /00001271)
+  (fp_text reference K_127 (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -8862,9 +8862,9 @@
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
     (net 3 "col0"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 526 "Net-(D_128-Pad2)"))
+    (net 526 "Net-(D_127-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 526 "Net-(D_128-Pad2)"))
+    (net 526 "Net-(D_127-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -8873,16 +8873,16 @@
   
   
 )
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 801)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7f1)
     (at
     32.67350561840604
-    82.0656411994249
+    77.46541945172322
     90)
     (descr SOD-123)
     (tags SOD-123)
-    (path /00001280)
+    (path /00001270)
     (attr smd)
-    (fp_text reference D_128 (at 0 2 90) (layer B.SilkS)
+    (fp_text reference D_127 (at 0 2 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -2.1 90) (layer B.Fab)
@@ -8910,7 +8910,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 526 "Net-(D_128-Pad2)"))
+      (net 526 "Net-(D_127-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 36 "row4"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -8921,98 +8921,10 @@
   )
 
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 7b0)
-  (at
-  106.1341538408385
-  79.51916940002931
-  )
-  (path /00001231)
-  (fp_text reference K_123 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 8 "col5"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 8 "col5"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 532 "Net-(D_123-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 532 "Net-(D_123-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7b1)
-    (at
-    117.0404038408385
-    80.01916940002931
-    90)
-    (descr SOD-123)
-    (tags SOD-123)
-    (path /00001230)
-    (attr smd)
-    (fp_text reference D_123 (at 0 2 90) (layer B.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
-    (fp_text user %R (at 0 2 270) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 532 "Net-(D_123-Pad2)"))
-    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 36 "row4"))
-    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 7c0)
   (at
-  131.35423432704863
-  86.91492361383384
+  104.90152813853774
+  79.51916940002931
   )
   (path /00001241)
   (fp_text reference K_124 (at 0 3.175) (layer Dwgs.User)
@@ -9029,18 +8941,18 @@
   (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
   (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
   (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 -9.525) (end 11.90625 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 -9.525) (end 11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 9 "col6"))
+    (net 8 "col5"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 9 "col6"))
+    (net 8 "col5"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 538 "Net-(D_124-Pad2)"))
+    (net 532 "Net-(D_124-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 538 "Net-(D_124-Pad2)"))
+    (net 532 "Net-(D_124-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -9051,8 +8963,8 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7c1)
     (at
-    139.87923432704864
-    87.41492361383384
+    115.80777813853774
+    80.01916940002931
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -9086,7 +8998,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 538 "Net-(D_124-Pad2)"))
+      (net 532 "Net-(D_124-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 36 "row4"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -9099,8 +9011,8 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 7d0)
   (at
-  149.75512131785538
-  91.84542642303686
+  130.12160862474786
+  86.91492361383384
   )
   (path /00001251)
   (fp_text reference K_125 (at 0 3.175) (layer Dwgs.User)
@@ -9122,13 +9034,13 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 10 "col7"))
+    (net 9 "col6"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 10 "col7"))
+    (net 9 "col6"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 544 "Net-(D_125-Pad2)"))
+    (net 538 "Net-(D_125-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 544 "Net-(D_125-Pad2)"))
+    (net 538 "Net-(D_125-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -9139,8 +9051,8 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7d1)
     (at
-    158.28012131785542
-    92.34542642303686
+    138.64660862474787
+    87.41492361383384
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -9174,7 +9086,95 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 544 "Net-(D_125-Pad2)"))
+      (net 538 "Net-(D_125-Pad2)"))
+    (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 36 "row4"))
+    (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
+  (tstamp 7e0)
+  (at
+  148.52249561555465
+  91.84542642303686
+  )
+  (path /00001261)
+  (fp_text reference K_126 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 10 "col7"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 10 "col7"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 544 "Net-(D_126-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 544 "Net-(D_126-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7e1)
+    (at
+    157.04749561555462
+    92.34542642303686
+    90)
+    (descr SOD-123)
+    (tags SOD-123)
+    (path /00001260)
+    (attr smd)
+    (fp_text reference D_126 (at 0 2 90) (layer B.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -2.1 90) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
+    (fp_text user %R (at 0 2 270) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 544 "Net-(D_126-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 36 "row4"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -9187,7 +9187,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 3b0)
   (at
-  186.57056207130873
+  185.337936369008
   91.2161172746917
   )
   (path /00000591)
@@ -9227,7 +9227,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 3b1)
     (at
-    197.47681207130873
+    196.244186369008
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9275,7 +9275,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 3c0)
   (at
-  217.52681207130874
+  216.29418636900797
   91.2161172746917
   )
   (path /00000601)
@@ -9315,7 +9315,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 3c1)
     (at
-    226.05181207130875
+    224.81918636900798
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9363,7 +9363,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 3d0)
   (at
-  236.57681207130875
+  235.34418636900799
   91.2161172746917
   )
   (path /00000611)
@@ -9403,7 +9403,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 3d1)
     (at
-    245.10181207130873
+    243.869186369008
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9451,7 +9451,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 3e0)
   (at
-  255.62681207130873
+  254.394186369008
   91.2161172746917
   )
   (path /00000621)
@@ -9491,7 +9491,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 3e1)
     (at
-    264.15181207130877
+    262.919186369008
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9539,7 +9539,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 3f0)
   (at
-  274.67681207130875
+  273.444186369008
   91.2161172746917
   )
   (path /00000631)
@@ -9579,7 +9579,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 3f1)
     (at
-    283.2018120713087
+    281.96918636900796
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9627,7 +9627,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 400)
   (at
-  293.72681207130876
+  292.494186369008
   91.2161172746917
   )
   (path /00000641)
@@ -9667,7 +9667,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 401)
     (at
-    302.25181207130873
+    301.01918636900797
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9715,7 +9715,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 410)
   (at
-  312.77681207130877
+  311.54418636900795
   91.2161172746917
   )
   (path /00000651)
@@ -9755,7 +9755,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 411)
     (at
-    321.30181207130875
+    320.0691863690079
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9803,7 +9803,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 420)
   (at
-  331.8268120713087
+  330.59418636900796
   91.2161172746917
   )
   (path /00000661)
@@ -9843,7 +9843,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 421)
     (at
-    340.35181207130876
+    339.11918636900793
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9891,7 +9891,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 430)
   (at
-  350.87681207130873
+  349.64418636900797
   91.2161172746917
   )
   (path /00000671)
@@ -9931,7 +9931,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 431)
     (at
-    359.40181207130877
+    358.16918636900795
     91.7161172746917
     90)
     (descr SOD-123)
@@ -9979,7 +9979,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 440)
   (at
-  369.92681207130875
+  368.6941863690079
   91.2161172746917
   )
   (path /00000681)
@@ -10019,7 +10019,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 441)
     (at
-    378.4518120713087
+    377.21918636900796
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10067,7 +10067,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 450)
   (at
-  388.97681207130876
+  387.74418636900793
   91.2161172746917
   )
   (path /00000691)
@@ -10107,7 +10107,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 451)
     (at
-    397.50181207130873
+    396.26918636900797
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10155,7 +10155,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 460)
   (at
-  408.02681207130877
+  406.79418636900795
   91.2161172746917
   )
   (path /00000701)
@@ -10195,7 +10195,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 461)
     (at
-    416.55181207130875
+    415.3191863690079
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10243,7 +10243,7 @@
 (module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 470)
   (at
-  438.9830620713087
+  437.75043636900796
   91.2161172746917
   )
   (path /00000711)
@@ -10266,9 +10266,9 @@
   (fp_line (start 21.431250000000002 9.525) (end -21.431250000000002 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -21.431250000000002 9.525) (end -21.431250000000002 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 26 "col23"))
+    (net 25 "col22"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 26 "col23"))
+    (net 25 "col22"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
     (net 622 "Net-(D_71-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
@@ -10286,7 +10286,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 471)
     (at
-    459.41431207130876
+    458.18168636900793
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10334,7 +10334,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 480)
   (at
-  474.7018120713087
+  473.46918636900796
   91.2161172746917
   )
   (path /00000721)
@@ -10374,7 +10374,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 481)
     (at
-    483.22681207130876
+    481.99418636900793
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10422,7 +10422,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 490)
   (at
-  493.75181207130873
+  492.51918636900797
   91.2161172746917
   )
   (path /00000731)
@@ -10462,7 +10462,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 491)
     (at
-    502.27681207130877
+    501.04418636900795
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10510,7 +10510,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 4a0)
   (at
-  512.8018120713087
+  511.5691863690079
   91.2161172746917
   )
   (path /00000741)
@@ -10550,7 +10550,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 4a1)
     (at
-    521.3268120713087
+    520.094186369008
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10598,7 +10598,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 4b0)
   (at
-  531.8518120713087
+  530.6191863690079
   91.2161172746917
   )
   (path /00000751)
@@ -10638,7 +10638,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 4b1)
     (at
-    540.3768120713088
+    539.1441863690079
     91.7161172746917
     90)
     (descr SOD-123)
@@ -10687,7 +10687,7 @@
   (tstamp 830)
   (at
   16.83675280920302
-  99.96652819023167
+  95.36630644252996
   )
   (path /00001311)
   (fp_text reference K_131 (at 0 3.175) (layer Dwgs.User)
@@ -10727,7 +10727,7 @@
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 831)
     (at
     27.74300280920302
-    100.46652819023167
+    95.86630644252996
     90)
     (descr SOD-123)
     (tags SOD-123)
@@ -10772,13 +10772,13 @@
   )
 
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
-  (tstamp 7f0)
+  (tstamp 800)
   (at
-  117.22328802244225
+  115.9906623201415
   102.85055920003907
   )
-  (path /00001271)
-  (fp_text reference K_127 (at 0 3.175) (layer Dwgs.User)
+  (path /00001281)
+  (fp_text reference K_128 (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -10797,13 +10797,13 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 9 "col6"))
+    (net 8 "col5"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 9 "col6"))
+    (net 8 "col5"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 658 "Net-(D_127-Pad2)"))
+    (net 658 "Net-(D_128-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 658 "Net-(D_127-Pad2)"))
+    (net 658 "Net-(D_128-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -10812,16 +10812,16 @@
   
   
 )
-(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 7f1)
+(module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 801)
     (at
-    125.74828802244225
+    124.51566232014149
     103.35055920003907
     90)
     (descr SOD-123)
     (tags SOD-123)
-    (path /00001270)
+    (path /00001280)
     (attr smd)
-    (fp_text reference D_127 (at 0 2 90) (layer B.SilkS)
+    (fp_text reference D_128 (at 0 2 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -2.1 90) (layer B.Fab)
@@ -10849,7 +10849,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (pad 2 smd rect (at 1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 658 "Net-(D_127-Pad2)"))
+      (net 658 "Net-(D_128-Pad2)"))
     (pad 1 smd rect (at -1.65 0 90) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 37 "row5"))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
@@ -10862,7 +10862,7 @@
 (module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 4c0)
   (at
-  196.09556207130873
+  194.862936369008
   110.2661172746917
   )
   (path /00000761)
@@ -10905,7 +10905,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 4c1)
     (at
-    216.52681207130874
+    215.29418636900797
     110.7661172746917
     90)
     (descr SOD-123)
@@ -10953,7 +10953,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 4d0)
   (at
-  227.05181207130875
+  225.81918636900798
   110.2661172746917
   )
   (path /00000771)
@@ -10993,7 +10993,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 4d1)
     (at
-    235.57681207130875
+    234.34418636900799
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11041,7 +11041,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 4e0)
   (at
-  246.10181207130873
+  244.869186369008
   110.2661172746917
   )
   (path /00000781)
@@ -11081,7 +11081,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 4e1)
     (at
-    254.62681207130873
+    253.394186369008
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11129,7 +11129,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 4f0)
   (at
-  265.15181207130877
+  263.919186369008
   110.2661172746917
   )
   (path /00000791)
@@ -11169,7 +11169,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 4f1)
     (at
-    273.67681207130875
+    272.444186369008
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11217,7 +11217,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 500)
   (at
-  284.2018120713087
+  282.96918636900796
   110.2661172746917
   )
   (path /00000801)
@@ -11257,7 +11257,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 501)
     (at
-    292.72681207130876
+    291.494186369008
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11305,7 +11305,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 510)
   (at
-  303.25181207130873
+  302.01918636900797
   110.2661172746917
   )
   (path /00000811)
@@ -11345,7 +11345,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 511)
     (at
-    311.77681207130877
+    310.54418636900795
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11393,7 +11393,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 520)
   (at
-  322.30181207130875
+  321.0691863690079
   110.2661172746917
   )
   (path /00000821)
@@ -11433,7 +11433,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 521)
     (at
-    330.8268120713087
+    329.59418636900796
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11481,7 +11481,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 530)
   (at
-  341.35181207130876
+  340.11918636900793
   110.2661172746917
   )
   (path /00000831)
@@ -11521,7 +11521,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 531)
     (at
-    349.87681207130873
+    348.64418636900797
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11569,7 +11569,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 540)
   (at
-  360.40181207130877
+  359.16918636900795
   110.2661172746917
   )
   (path /00000841)
@@ -11609,7 +11609,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 541)
     (at
-    368.92681207130875
+    367.6941863690079
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11657,7 +11657,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 550)
   (at
-  379.4518120713087
+  378.21918636900796
   110.2661172746917
   )
   (path /00000851)
@@ -11697,7 +11697,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 551)
     (at
-    387.97681207130876
+    386.74418636900793
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11745,7 +11745,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 560)
   (at
-  398.50181207130873
+  397.26918636900797
   110.2661172746917
   )
   (path /00000861)
@@ -11785,7 +11785,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 561)
     (at
-    407.02681207130877
+    405.79418636900795
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11833,7 +11833,7 @@
 (module MX_Alps_Hybrid:MX-2.75U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 570)
   (at
-  434.22056207130873
+  432.98793636900797
   110.2661172746917
   )
   (path /00000871)
@@ -11876,7 +11876,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 571)
     (at
-    459.41431207130876
+    458.18168636900793
     110.7661172746917
     90)
     (descr SOD-123)
@@ -11924,7 +11924,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 580)
   (at
-  474.7018120713087
+  473.46918636900796
   110.2661172746917
   )
   (path /00000881)
@@ -11964,7 +11964,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 581)
     (at
-    483.22681207130876
+    481.99418636900793
     110.7661172746917
     90)
     (descr SOD-123)
@@ -12012,7 +12012,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 590)
   (at
-  493.75181207130873
+  492.51918636900797
   110.2661172746917
   )
   (path /00000891)
@@ -12052,7 +12052,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 591)
     (at
-    502.27681207130877
+    501.04418636900795
     110.7661172746917
     90)
     (descr SOD-123)
@@ -12100,7 +12100,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 5a0)
   (at
-  512.8018120713087
+  511.5691863690079
   110.2661172746917
   )
   (path /00000901)
@@ -12140,7 +12140,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 5a1)
     (at
-    521.3268120713087
+    520.094186369008
     110.7661172746917
     90)
     (descr SOD-123)
@@ -12188,7 +12188,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 840)
   (at
-  107.60856206093602
+  106.37593635863529
   129.21926398394845
   )
   (path /00001321)
@@ -12228,7 +12228,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 841)
     (at
-    118.51481206093602
+    117.28218635863529
     129.71926398394845
     90)
     (descr SOD-123)
@@ -12276,7 +12276,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 810)
   (at
-  133.15892360864748
+  131.92629790634675
   116.98150550464548
   )
   (path /00001291)
@@ -12316,7 +12316,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 811)
     (at
-    141.68392360864746
+    140.45129790634672
     117.48150550464548
     90)
     (descr SOD-123)
@@ -12364,7 +12364,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 820)
   (at
-  156.16003234715595
+  154.92740664485518
   123.14463401614925
   )
   (path /00001301)
@@ -12387,9 +12387,9 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 11 "col8"))
+    (net 10 "col7"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 11 "col8"))
+    (net 10 "col7"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
     (net 766 "Net-(D_130-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
@@ -12404,7 +12404,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 821)
     (at
-    164.68503234715592
+    163.4524066448552
     123.64463401614925
     90)
     (descr SOD-123)
@@ -12452,7 +12452,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 5c0)
   (at
-  186.57056207130873
+  185.337936369008
   129.3161172746917
   )
   (path /00000921)
@@ -12492,7 +12492,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 5c1)
     (at
-    197.47681207130873
+    196.244186369008
     129.8161172746917
     90)
     (descr SOD-123)
@@ -12540,7 +12540,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 5d0)
   (at
-  210.38306207130873
+  209.150436369008
   129.3161172746917
   )
   (path /00000931)
@@ -12563,9 +12563,9 @@
   (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 14 "col11"))
+    (net 13 "col10"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 14 "col11"))
+    (net 13 "col10"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
     (net 778 "Net-(D_93-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
@@ -12580,7 +12580,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 5d1)
     (at
-    221.28931207130873
+    220.056686369008
     129.8161172746917
     90)
     (descr SOD-123)
@@ -12628,7 +12628,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 5e0)
   (at
-  234.19556207130873
+  232.962936369008
   129.3161172746917
   )
   (path /00000941)
@@ -12668,7 +12668,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 5e1)
     (at
-    245.10181207130873
+    243.869186369008
     129.8161172746917
     90)
     (descr SOD-123)
@@ -12716,7 +12716,7 @@
 (module MX_Alps_Hybrid:MX-6.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 5f0)
   (at
-  305.63306207130876
+  304.400436369008
   129.3161172746917
   )
   (path /00000951)
@@ -12739,9 +12739,9 @@
   (fp_line (start 59.53125 9.525) (end -59.53125 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -59.53125 9.525) (end -59.53125 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 19 "col16"))
+    (net 18 "col15"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 19 "col16"))
+    (net 18 "col15"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
     (net 790 "Net-(D_95-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
@@ -12759,7 +12759,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 5f1)
     (at
-    364.16431207130876
+    362.93168636900793
     129.8161172746917
     90)
     (descr SOD-123)
@@ -12807,7 +12807,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 600)
   (at
-  377.07056207130876
+  375.83793636900793
   129.3161172746917
   )
   (path /00000961)
@@ -12847,7 +12847,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 601)
     (at
-    387.97681207130876
+    386.74418636900793
     129.8161172746917
     90)
     (descr SOD-123)
@@ -12895,7 +12895,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 610)
   (at
-  400.88306207130876
+  399.65043636900793
   129.3161172746917
   )
   (path /00000971)
@@ -12918,9 +12918,9 @@
   (fp_line (start 11.90625 9.525) (end -11.90625 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -11.90625 9.525) (end -11.90625 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 24 "col21"))
+    (net 23 "col20"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 24 "col21"))
+    (net 23 "col20"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
     (net 802 "Net-(D_97-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
@@ -12935,7 +12935,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 611)
     (at
-    411.78931207130876
+    410.55668636900793
     129.8161172746917
     90)
     (descr SOD-123)
@@ -12983,7 +12983,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 620)
   (at
-  424.69556207130876
+  423.46293636900793
   129.3161172746917
   )
   (path /00000981)
@@ -13023,7 +13023,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 621)
     (at
-    435.60181207130876
+    434.36918636900793
     129.8161172746917
     90)
     (descr SOD-123)
@@ -13071,7 +13071,7 @@
 (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 630)
   (at
-  448.50806207130876
+  447.27543636900793
   129.3161172746917
   )
   (path /00000991)
@@ -13111,7 +13111,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 631)
     (at
-    459.41431207130876
+    458.18168636900793
     129.8161172746917
     90)
     (descr SOD-123)
@@ -13159,7 +13159,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 640)
   (at
-  474.7018120713087
+  473.46918636900796
   129.3161172746917
   )
   (path /00001001)
@@ -13199,7 +13199,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 641)
     (at
-    483.22681207130876
+    481.99418636900793
     129.8161172746917
     90)
     (descr SOD-123)
@@ -13247,7 +13247,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 650)
   (at
-  493.75181207130873
+  492.51918636900797
   129.3161172746917
   )
   (path /00001011)
@@ -13287,7 +13287,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 651)
     (at
-    502.27681207130877
+    501.04418636900795
     129.8161172746917
     90)
     (descr SOD-123)
@@ -13335,7 +13335,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 660)
   (at
-  512.8018120713087
+  511.5691863690079
   129.3161172746917
   )
   (path /00001021)
@@ -13375,7 +13375,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 661)
     (at
-    521.3268120713087
+    520.094186369008
     129.8161172746917
     90)
     (descr SOD-123)
@@ -13423,7 +13423,7 @@
 (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 5b0)
   (at
-  531.8518120713087
+  530.6191863690079
   110.2661172746917
   )
   (path /00000911)
@@ -13463,7 +13463,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 5b1)
     (at
-    540.3768120713088
+    539.1441863690079
     110.7661172746917
     90)
     (descr SOD-123)
@@ -13511,7 +13511,7 @@
 (module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203)
   (tstamp 850)
   (at
-  137.75342079944446
+  136.5207950971437
   135.38239249545222
   )
   (path /00001331)
@@ -13554,7 +13554,7 @@
 )
 (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 561B6A12) (tstamp 851)
     (at
-    155.80342079944444
+    154.5707950971437
     135.88239249545222
     90)
     (descr SOD-123)
@@ -13599,13 +13599,13 @@
     )
   )
 
-  (gr_line (start -4 -4) (end 545.3768120713088 -4) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 545.3768120713088 -4) (end 545.3768120713088 158.11928510466504) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 545.3768120713088 158.11928510466504) (end -4 158.11928510466504) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start -4 -4) (end 544.1441863690079 -4) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 544.1441863690079 -4) (end 544.1441863690079 158.11928510466504) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 544.1441863690079 158.11928510466504) (end -4 158.11928510466504) (layer Edge.Cuts) (width 0.2))
   (gr_line (start -4 158.11928510466504) (end -4 -4) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start -4 -4) (end -4 -4) (angle -90) (layer Edge.Cuts) (width 0.2))
-  (gr_arc (start 545.3768120713088 -4) (end 545.3768120713088 -4) (angle 90) (layer Edge.Cuts) (width 0.2))
-  (gr_arc (start 545.3768120713088 158.11928510466504) (end 545.3768120713088 158.11928510466504) (angle -90) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start 544.1441863690079 -4) (end 544.1441863690079 -4) (angle 90) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start 544.1441863690079 158.11928510466504) (end 544.1441863690079 158.11928510466504) (angle -90) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start -4 158.11928510466504) (end -4 158.11928510466504) (angle 90) (layer Edge.Cuts) (width 0.2))
 
 )
